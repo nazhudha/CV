@@ -109,8 +109,7 @@ _BA Arabic & Geography (Joint Honours)_
 
 - Taekwondo (won Gold at British Masters)
 
-***
 
 ## Contact
 - Github: [nazhudha](https://github.com/nazhudha?tab=repositories)
-- LinkedIN: [Nazmul Hudha](https://www.linkedin.com/in/nazmul-h-7a44b7116/)
+- Linkedin: [Nazmul Hudha](https://www.linkedin.com/in/nazmul-h-7a44b7116/)
