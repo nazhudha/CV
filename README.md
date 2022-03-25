@@ -1,6 +1,6 @@
 # Nazmul Hudha
 
-[Projects](#projects) | [Employment](#employment) | [Skills](#skills) | [Education](#education) | [Hobbies](#hobbies)
+[Projects](#projects) | [Employment](#employment) | [Skills](#skills) | [Education](#education) | [Hobbies](#hobbies) | [Contact](#contact)
 
 ## Introduction
 
@@ -108,3 +108,9 @@ _BA Arabic & Geography (Joint Honours)_
 ## Hobbies
 
 - Taekwondo (won Gold at British Masters)
+
+***
+
+## Contact
+- Github: [nazhudha](https://github.com/nazhudha?tab=repositories)
+- LinkedIN: [Nazmul Hudha](https://www.linkedin.com/in/nazmul-h-7a44b7116/)
