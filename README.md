@@ -1,10 +1,10 @@
 # Nazmul Hudha
 
-[Projects](#projects) | [Experience](#experience) | [Skills](#skills) | [Education](#education) | [Hobbies](#hobbies)
+[Projects](#projects) | [Employment](#employment) | [Skills](#skills) | [Education](#education) | [Hobbies](#hobbies)
 
 ## Introduction
 
-I am an adaptable and reliable Frontend React Developer, with lots of previpus experience working with company tools and technolgoies; now looking for a position on the development team to help bring company prodcuts and services to client side applicatons.
+I am an adaptable and reliable Frontend React Developer, with lots of previous experience working with company tools and technolgoies; now looking for a position on the development team to help bring company products and services to client side applications.
 
 ## Technologies
 **Languages:** HTML, CSS, JavaScript
@@ -19,11 +19,11 @@ I am an adaptable and reliable Frontend React Developer, with lots of previpus e
 | ---------------------------- | ----------------- | ----------------- | :---------: |
 | **Miracle Shoe** | Frontend Shoe E Commerce site   | React, NPM packages | [Miracle Shoe](https://github.com/nazhudha/miracle-shoes-ecommerce) |
 | **NES-CSS-Dialogue**          | Using NESS CSS framework   |  NESS CSS, NPM packages   |  [Ness Css ](https://github.com/nazhudha/css---NES-CSS-Dialogue)  |
-| **Portfolio-Website**         |  A responsive Portfolio Site Build   |  HTML, CSS, Javascript   |  [Portfolio](https://github.com/nazhudha/Portfolio-Website)  |
+| **Portfolio-Website**         |  A responsive Portfolio Site Build   |  HTML, CSS, Javascript   |  [Portfolio Site](https://github.com/nazhudha/Portfolio-Website)  |
 | **React App1**    |  React App one  |  React  |  [React App1](https://github.com/nazhudha?tab=repositories)  |
 | **React App2**    |  React App two  |  React  |  [React App2](https://github.com/nazhudha?tab=repositories)  |
 
-## Experience
+## Employment
 
 **Bath Spa University** (Jan 2022 - April 2022)  
 _Web Development Coding Bootcamp_
