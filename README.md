@@ -8,7 +8,9 @@ I am an adaptable and reliable Frontend React Developer, with lots of previpus e
 
 ## Technologies
 **Languages:** HTML, CSS, JavaScript
+
 **Libraries & Frameworks:** React, Bootstrap, Tailwind, SASS
+
 **Tools & Methodologies:** Git, NPM, API's, Agile Development
 
 ## Projects
