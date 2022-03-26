@@ -1,10 +1,10 @@
 # Nazmul Hudha
 
-[Projects](#projects) | [Employment](#employment) | [Skills](#skills) | [Education](#education) | [Hobbies](#hobbies) | [Contact](#contact)
+[Projects](#projects) | [Experience](#experience) | [Skills](#skills) | [Education](#education) | [Hobbies](#hobbies) | [Contact](#contact)
 
 ## Introduction
 
-I am an adaptable and reliable Frontend React Developer, with lots of previous experience working with company tools and technolgoies; now looking for a position on the development team to help bring company products and services to client side applications.
+I am an adaptable and reliable Frontend React Developer, with lots of previous experience working with company tools and technologies in previous roles; now looking for a position on the development team to help bring company products and services to clients and end users.
 
 ## Technologies
 **Languages:** HTML, CSS, JavaScript
@@ -17,13 +17,13 @@ I am an adaptable and reliable Frontend React Developer, with lots of previous e
 
 | Name                         | Description       | Tech/tools        | Source Code |
 | ---------------------------- | ----------------- | ----------------- | :---------: |
-| **Miracle Shoe** | Frontend Shoe E Commerce site   | React, NPM packages | [Miracle Shoe](https://github.com/nazhudha/miracle-shoes-ecommerce) |
+| **Miracle Shoe** | Team Build, Frontend Shoe E-Commerce site   | React, NPM packages | [Miracle Shoe](https://github.com/nazhudha/miracle-shoes-ecommerce) |
 | **NES-CSS-Dialogue**          | Using NESS CSS framework   |  NESS CSS, NPM packages   |  [Ness Css ](https://github.com/nazhudha/css---NES-CSS-Dialogue)  |
 | **Portfolio-Website**         |  A responsive Portfolio Site Build   |  HTML, CSS, Javascript   |  [Portfolio Site](https://github.com/nazhudha/Portfolio-Website)  |
 | **React App1**    |  React App one  |  React  |  [React App1](https://github.com/nazhudha?tab=repositories)  |
 | **React App2**    |  React App two  |  React  |  [React App2](https://github.com/nazhudha?tab=repositories)  |
 
-## Employment
+## Experience
 
 **Bath Spa University** (Jan 2022 - April 2022)  
 _Web Development Coding Bootcamp_
@@ -35,27 +35,27 @@ _Web Development Coding Bootcamp_
 **POWREADY** (Oct 2020 - Present)  
 _Sales Manager_
 
-- Designing and implementing a strategic sales plan that expands the company’s products and customer base for the UK market 
-- Managing organisational sales with large enterprises 
-- Developing the company's sales processes & Achieving growth and meet planned sales for each quarter
+- Design and implement a strategic sales plan to help expand Powready's products, services and help grow its UK customer base.
+- Developing the sales process, achieving growth, meeting planned quarterly sales targets and managing a growing sales team
+- Forecast & budget sales revenue, as well as in charge of expansion, retention and churns 
 
 **Receipt Bank** (Feb 2020 - Aug 2020)  
 _Account Development Manager_
 
-- Taking a consultative approach to form long-term partnerships with clients, assisting them in streamlining, growing and future-proofing their accountancy firms
-- Developing and nurturing relationships either side of the upsell in order to maximise the revenue from each Partner 
+- Taking a consultative approach to form long-term partnerships with clients and businesses; assisting them in streamlining, growing and future-proofing their accountancy firms
+- Manage, develop and nurture relationships with key stakeholders and strategic partners at all levels on either side of the upsell in order to maximise revenue and growth 
 
 **Uber** (Nov 2018 - May 2019)  
 _Virtual Restaurant Account Manager_
 
-- Building relationships with stakeholders at top performing restaurants 
-- Identifying and initiating new partnership opportunities with new clients 
-- Using Uber Eats Data to find selection gaps in the market and using food knowledge to create new high quality menus as a new brand. 
+- Build & maintain relationships with stakeholders at UberEats top 10% of best performing restaurants & brands across the UK
+- Using UberEats Data to find market selection gaps; identify and initiate new partnership opportunities; and pitching & closing new exclusive brands, owning the entire end-to-end sales process
+- Working & communicating with teams around the globe; building a Sales Playbook to train future sales team
 
 _Restaurant Partnership Account Executive_
-- Own the restaurant selection by launching Uber Eats into new cities and towns in the UK.
-- Driving revenue by prospecting, qualifying and closing new restaurants 
-- Effectively managing a sales pipeline with different sales cycles across different cities and closing deals by owning the entire end-to-end sales process
+- Own the restaurant selection by launching Uber Eats into new cities, towns and territories across the UK.
+- Driving Revenue and effectively managing a sales pipeline, with different sales cycles and timelines across UK cities 
+- Finding and qualifying leads, negotiating terms and closing deals,  owning the entire end-to-end sales process
 
 
 **Lewisham Council** (Feb 2018 - Nov 2018)  
