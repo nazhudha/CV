@@ -99,6 +99,7 @@ The prospect of continuous learning ....
 **Bath Spa University** (Jan 2022 - April 2022)
 _Web Development Bootcamp_
 
+- notes
 
 **SOAS University of London & King's College London** (2009 - 2014) 
 _BA Arabic & Geography (Joint Honours)_
