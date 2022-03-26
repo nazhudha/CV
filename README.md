@@ -97,10 +97,12 @@ The prospect of continuous learning ....
 ## Education
 
 **Bath Spa University** (Jan 2022 - April 2022) 
+
 _Web Development Bootcamp_
 
 
 **SOAS University of London & King's College London** (2009 - 2014)
+
 _BA Arabic & Geography (Joint Honours)_
 
 - Final Project: Geography City Planning Essay Written in Arabic 
