@@ -8,7 +8,7 @@ I am an adaptable and reliable **Frontend React Developer**, with lots of previo
 
 I would describe myself as someone who is open minded (enjoy learning about culture, experiences & new ideas), a good learner (taught myself Japanese whilst living in Japan for 2 years) and with a wide range of skills (worked with different teams and structures in various companies).
 
-After having worked on the sales side of digital products for a number of years (and working closely with development teams); I realise it is programming and solving problems what I enjoy more.  So I am excited, for a switch in my career path, to use digital technical skills to help turn ideas into new features. 
+After having worked on the sales side of digital products for a number of years (and working closely with development teams); I realise it is programming and solving problems what I enjoy more.  So I am excited, for a switch in my career path, to use digital technical skills to help turn ideas into new innovative features. 
 
 ## Technologies
 **Languages:** HTML, CSS, JavaScript
@@ -39,7 +39,7 @@ _Web Development Coding Bootcamp_
 **POWREADY** (Oct 2020 - Present)  
 _Sales Manager_
 
-- Design and implement a strategic sales plan to help expand Powready's products, services and help grow its UK customer base.
+- Design and implement a strategic sales plan to help expand Powready's products, services and help grow its UK customer base
 - Developing the sales process, achieving growth, meeting planned quarterly sales targets and managing a growing sales team
 - Forecast & budget sales revenue, as well as in charge of expansion, retention and churns 
 
@@ -57,7 +57,7 @@ _Virtual Restaurant Account Manager_
 - Working & communicating with teams around the globe; building a Sales Playbook to train future sales team
 
 _Restaurant Partnership Account Executive_
-- Own the restaurant selection by launching Uber Eats into new cities, towns and territories across the UK.
+- Own the restaurant selection by launching Uber Eats into new cities, towns and territories across the UK
 - Driving Revenue and effectively managing a sales pipeline, with different sales cycles and timelines across UK cities 
 - Finding and qualifying leads, negotiating terms and closing deals,  owning the entire end-to-end sales process
 
