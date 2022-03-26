@@ -4,7 +4,11 @@
 
 ## Introduction
 
-I am an adaptable and reliable Frontend React Developer, with lots of previous experience working with company tools and technologies in previous roles; now looking for a position on the development team to help bring company products and services to clients and end users.
+I am an adaptable and reliable **Frontend React Developer**, with lots of previous experience working with company tools and technologies in previous roles; now looking for a position on the development team, to help bring company products and services to clients and end users.
+
+I would describe myself as someone who is open minded (enjoy learning about culture, experiences & new ideas), a good learner (taught myself Japanese whilst living in Japan for 2 years) and with a wide range of skills (worked with different teams and structures in various companies).
+
+After having worked on the sales side of digital products for a number of years (and working closely with development teams); I realise it is programming and solving problems what I enjoy more.  So I am excited, for a switch in my career path, to use digital technical skills to help turn ideas into new features. 
 
 ## Technologies
 **Languages:** HTML, CSS, JavaScript
@@ -57,7 +61,6 @@ _Restaurant Partnership Account Executive_
 - Driving Revenue and effectively managing a sales pipeline, with different sales cycles and timelines across UK cities 
 - Finding and qualifying leads, negotiating terms and closing deals,  owning the entire end-to-end sales process
 
-
 **Lewisham Council** (Feb 2018 - Nov 2018)  
 _Commercial Sales Territory Account Manager_
 
@@ -71,40 +74,20 @@ _Accounting & Finance Recruitment Consultant_
 _English Language Teacher_
 
 
-## Skills
-
-### Analytical thinking
-
-My ability to ....
-
-### Attention to detail
-
-My time as an ...
-  
-### Delivering results under pressure
-
-While working as an....
-
-### Adaptability and continous learning
-
-The prospect of continuous learning ....
-  
-### Languages  
-
-- English (Native)
-- Japanese (Conversational)
-
 ## Education
 
 **Bath Spa University** (Jan 2022 - April 2022)
 _Web Development Bootcamp_
 
-- notes
-
 **SOAS University of London & King's College London** (2009 - 2014) 
 _BA Arabic & Geography (Joint Honours)_
 
 - Final Project: Geography City Planning Essay Written in Arabic 
+
+## Languages  
+
+- English (Native)
+- Japanese (Conversational)
 
 ## Hobbies
 
