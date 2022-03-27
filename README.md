@@ -4,18 +4,18 @@
 
 ## Introduction
 
-I am an adaptable and reliable **Frontend React Developer**, with lots of previous experience working with company tools and technologies in previous roles; now looking for a position on the development team, to help bring company products and services to clients and end users.
+I am an adaptable and reliable **Frontend React Developer**, with lots of previous experience working with company tools and technologies; now looking for a position on the development team.
 
-I would describe myself as someone who is open minded (enjoy learning about culture, experiences & new ideas), a good learner (taught myself Japanese whilst living in Japan for 2 years) and with a wide range of skills (worked with different teams and structures in various companies).
+After having worked on the sales side of digital products for a number of years (communicating and working closely with development teams); I realise it is programming and solving problems what I enjoy more.  So I am excited, for a switch in my career path, to use digital technical skills to turn ideas into new innovative features and help bring company products & services to clients and end users.
 
-After having worked on the sales side of digital products for a number of years (and working closely with development teams); I realise it is programming and solving problems what I enjoy more.  So I am excited, for a switch in my career path, to use digital technical skills to help turn ideas into new innovative features. 
+I would describe myself as someone who is open minded (enjoy culture, experiences & new ideas), a good learner (self-taught Japanese then lived in Japan for 2 years), with a wide range of skills (worked with different teams and structures in various organisations) and can easily get along well with all types of people.
 
 ## Technologies
 **Languages:** HTML, CSS, JavaScript
 
 **Libraries & Frameworks:** React, Bootstrap, Tailwind, SASS
 
-**Tools & Methodologies:** Git, NPM, API's, Agile Development
+**Tools & Methodologies:** Git, NPM, web API's (incl. JSON & AJAX), Agile Development
 
 ## Projects
 
@@ -23,9 +23,20 @@ After having worked on the sales side of digital products for a number of years 
 | ---------------------------- | ----------------- | ----------------- | :---------: |
 | **Miracle Shoe** | Team Build, Frontend Shoe E-Commerce site   | React, NPM packages | [Miracle Shoe](https://github.com/nazhudha/miracle-shoes-ecommerce) |
 | **NES-CSS-Dialogue**          | Using NESS CSS framework   |  NESS CSS, NPM packages   |  [Ness Css ](https://github.com/nazhudha/css---NES-CSS-Dialogue)  |
-| **Portfolio-Website**         |  A responsive Portfolio Site Build   |  HTML, CSS, Javascript   |  [Portfolio Site](https://github.com/nazhudha/Portfolio-Website)  |
+| **Portfolio-Website**         |  A responsive, Portfolio Site Build   |  HTML, CSS, Javascript   |  [Portfolio Site](https://github.com/nazhudha/Portfolio-Website)  |
 | **React App1**    |  React App one  |  React  |  [React App1](https://github.com/nazhudha?tab=repositories)  |
 | **React App2**    |  React App two  |  React  |  [React App2](https://github.com/nazhudha?tab=repositories)  |
+
+
+### Mini Builds
+Mini Builds
+
+| Other Mini Builds                       | Source Code       | 
+| Random-Color-Generator JS App                    | [Color-Generator](https://github.com/nazhudha/Js---Random-Color-Generator) | 
+| Pokemon-Sprite JS Build                   | [Pokemon-Sprite](https://github.com/nazhudha/Js---Pokemon-Sprite) |
+| Photo-Slideshow JS Web Page Build                  | [Photo-slideshow](https://github.com/nazhudha/css---Photo-slideshow) |
+| Number Guessing-Game JS App                  | [number-guesser ](https://github.com/nazhudha/Js---Guessing-Game-Simple) |
+| Form-Validation JS App                  | [Form-validation ](https://github.com/nazhudha) |
 
 ## Experience
 
