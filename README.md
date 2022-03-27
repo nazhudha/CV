@@ -31,10 +31,9 @@ I would describe myself as someone who is open minded (enjoy culture, experience
 ### Other Mini Builds
 
 - Random-Color-Generator JS App | [Color-Generator](https://github.com/nazhudha/Js---Random-Color-Generator) 
-- Number Guessing-Game JS App | [number-guesser ](https://github.com/nazhudha/Js---Guessing-Game-Simple) 
 - Pokemon-Sprite JS Build | [Pokemon-Sprite](https://github.com/nazhudha/Js---Pokemon-Sprite) 
 - Photo-Slideshow-Web JS Build | [Photo-slideshow](https://github.com/nazhudha/css---Photo-slideshow) 
-- Form-Validation JS Build | [Form-validation ](https://github.com/nazhudha) 
+- Number Guessing-Game JS App | [number-guesser ](https://github.com/nazhudha/Js---Guessing-Game-Simple) 
 
 ## Experience
 
