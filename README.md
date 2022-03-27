@@ -28,15 +28,15 @@ I would describe myself as someone who is open minded (enjoy culture, experience
 | **React App2**    |  React App two  |  React  |  [React App2](https://github.com/nazhudha?tab=repositories)  |
 
 
-### Mini Builds
-Mini Builds
+### Other Mini Builds
 
-| Other Mini Builds                       | Source Code       | 
-| Random-Color-Generator JS App                    | [Color-Generator](https://github.com/nazhudha/Js---Random-Color-Generator) | 
-| Pokemon-Sprite JS Build                   | [Pokemon-Sprite](https://github.com/nazhudha/Js---Pokemon-Sprite) |
-| Photo-Slideshow JS Web Page Build                  | [Photo-slideshow](https://github.com/nazhudha/css---Photo-slideshow) |
-| Number Guessing-Game JS App                  | [number-guesser ](https://github.com/nazhudha/Js---Guessing-Game-Simple) |
-| Form-Validation JS App                  | [Form-validation ](https://github.com/nazhudha) |
+| Mini Builds Name | Source Code | 
+| ----------- | ----------- |
+| Random-Color-Generator JS App | [Color-Generator](https://github.com/nazhudha/Js---Random-Color-Generator) | 
+| Pokemon-Sprite JS Build | [Pokemon-Sprite](https://github.com/nazhudha/Js---Pokemon-Sprite) |
+| Photo-Slideshow JS Web Page Build | [Photo-slideshow](https://github.com/nazhudha/css---Photo-slideshow) |
+| Number Guessing-Game JS App | [number-guesser ](https://github.com/nazhudha/Js---Guessing-Game-Simple) |
+| Form-Validation JS App | [Form-validation ](https://github.com/nazhudha) |
 
 ## Experience
 
