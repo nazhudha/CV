@@ -23,9 +23,9 @@ I would describe myself as someone who is open minded (enjoy culture, experience
 | ---------------------------- | ----------------- | ----------------- | :---------: |
 | **Miracle Shoe** | Team Build, Frontend Shoe E-Commerce site   | React, NPM packages | [Miracle Shoe](https://github.com/nazhudha/miracle-shoes-ecommerce) |
 | **NES-CSS-Dialogue**          | Using NESS CSS framework   |  NESS CSS, NPM packages   |  [Ness Css ](https://github.com/nazhudha/css---NES-CSS-Dialogue)  |
-| **Portfolio-Website**         |  A responsive, Portfolio Site Build   |  HTML, CSS, Javascript   |  [Portfolio Site](https://github.com/nazhudha/Portfolio-Website)  |
-| **React App1**    |  React App one  |  React  |  [React App1](https://github.com/nazhudha?tab=repositories)  |
-| **React App2**    |  React App two  |  React  |  [React App2](https://github.com/nazhudha?tab=repositories)  |
+| **Portfolio-Web-Build**         |  A responsive, Portfolio Site Build   |  HTML, CSS, Javascript   |  [Portfolio Site](https://github.com/nazhudha/Portfolio-Web-Build)  |
+| **React App1**    |  React App one  |  TBC  |  [React App1](https://github.com/nazhudha?tab=repositories)  |
+| **React App2**    |  React App two  |  TBC  |  [React App2](https://github.com/nazhudha?tab=repositories)  |
 
 
 ### Other Mini Builds
