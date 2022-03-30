@@ -6,7 +6,7 @@
 
 I am an adaptable and reliable **Frontend React Developer**, with lots of previous experience working with company tools and technologies; now looking for a position on the development team.
 
-After having worked on the sales side of digital products for a number of years (communicating and working closely with development teams); I realise it is programming and solving problems what I enjoy more.  So I am excited, for a switch in my career path, to use digital technical skills to turn ideas into new innovative features and help bring company products & services to clients and end users.
+After having worked on the sales side of digital products for a number of years within Tech companies (working closely with development teams); I realised it is programming and solving problems what I enjoy more.  So I am excited, for a switch in my career path, to use my digital technical skills to turn ideas into new innovative features and help company bring products & services to clients and end users.
 
 I would describe myself as someone who is open minded (enjoy culture, experiences & new ideas), a good learner (self-taught Japanese then lived in Japan for 2 years), with a wide range of skills (worked with different teams and structures in various organisations) and can easily get along well with all types of people.
 
