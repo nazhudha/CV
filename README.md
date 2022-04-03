@@ -1,6 +1,6 @@
 # Nazmul Hudha
 
-[Technologies](#technologies) | [Projects](#projects) | [Experience](#experience) | [Education](#education) |[Interests](#interests) | [Contact](#contact)
+[Technologies](#technologies) | [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [Contact](#contact)
 
 ## Introduction
 
