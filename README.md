@@ -1,14 +1,14 @@
 # Nazmul Hudha
 
-[Technologies](#technologies) | [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Languages](#languages) | [Hobbies](#hobbies) | [Contact](#contact)
+[Technologies](#technologies) | [Projects](#projects) | [Experience](#experience) | [Education](#education) |[Interests](#interests) | [Contact](#contact)
 
 ## Introduction
 
 I am an adaptable and reliable **Frontend React Developer**, with lots of previous experience working with company tools and technologies; now looking for a position on the development team.
 
-After having worked on the sales side of digital products for a number of years within Tech companies (working closely with development teams); I realised it is programming and solving problems what I enjoy more.  So I am excited, for a switch in my career path, to use my digital technical skills to turn ideas into new innovative features and help company bring products & services to clients and end users.
+After having worked on the sales side of digital products for a number of years within Tech companies; I realised it is programming and solving problems that I enjoy more.  So I am excited, to use my digital technical skills to to help turn ideas into innovative new features, products & services.  
 
-I would describe myself as someone who is open minded (enjoy culture, experiences & new ideas), a good learner (self-taught Japanese then lived in Japan for 2 years), with a wide range of skills (worked with different teams and structures in various organisations) and can easily get along well with all types of people.
+I would describe myself as someone who is open minded, a good learner (self-taught Japanese then lived in Japan for 2 years), and can easily get along well with different types of people.
 
 ## Technologies
 **Languages:** HTML, CSS, JavaScript
@@ -21,9 +21,9 @@ I would describe myself as someone who is open minded (enjoy culture, experience
 
 | Name                         | Description       | Tech/tools        | Source Code |
 | ---------------------------- | ----------------- | ----------------- | :---------: |
+| **Portfolio-Web-Build**         |  A responsive, Personal Portfolio Site Build   |  HTML, CSS, Javascript   |  [Portfolio Site](https://github.com/nazhudha/Portfolio-Web-Build)  |
 | **Miracle Shoe** | Team Build, Frontend Shoe E-Commerce site   | React, NPM packages | [Miracle Shoe](https://github.com/nazhudha/miracle-shoes-ecommerce) |
 | **NES-CSS-Dialogue**          | Using NESS CSS framework   |  NESS CSS, NPM packages   |  [Ness Css ](https://github.com/nazhudha/css---NES-CSS-Dialogue)  |
-| **Portfolio-Web-Build**         |  A responsive, Portfolio Site Build   |  HTML, CSS, Javascript   |  [Portfolio Site](https://github.com/nazhudha/Portfolio-Web-Build)  |
 | **React App1**    |  React App one  |  TBC  |  [React App1](https://github.com/nazhudha?tab=repositories)  |
 | **React App2**    |  React App two  |  TBC  |  [React App2](https://github.com/nazhudha?tab=repositories)  |
 
@@ -92,15 +92,16 @@ _BA Arabic & Geography (Joint Honours)_
 
 - Final Project: Geography City Planning Essay Written in Arabic 
 
-## Languages  
+## Interests
+
+### Languages  
 
 - English (Native)
 - Japanese (Conversational)
 
-## Hobbies
+### Hobbies
 
 - Taekwondo (won Gold at British Masters)
-
 
 ## Contact
 - Github: [nazhudha](https://github.com/nazhudha?tab=repositories)
