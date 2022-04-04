@@ -37,13 +37,6 @@ I would describe myself as someone who is open minded, a good learner (self-taug
 
 ## Experience
 
-**Bath Spa University** (Jan 2022 - April 2022)  
-_Web Development Coding Bootcamp_
-
-- Worked with technologies including: React, JavaScript, HTML, CSS, Node.JS, Bootstrap, Tailwind, NPM packages 
-- Agile Development Methodology
-- Pair programming and final team build project 
-
 **POWREADY** (Oct 2020 - Present)  
 _Sales Manager_
 
@@ -83,9 +76,6 @@ _English Language Teacher_
 
 
 ## Education
-
-**Bath Spa University** (Jan 2022 - April 2022)
-_Web Development Bootcamp_
 
 **SOAS University of London & King's College London** (2009 - 2014) 
 _BA Arabic & Geography (Joint Honours)_
