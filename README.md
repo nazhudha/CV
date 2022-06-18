@@ -4,11 +4,11 @@
 
 ## Introduction
 
-I am an adaptable and reliable **Full Stack Developer**, now looking for a position on the development team.œ
+I am an adaptable and reliable **Full Stack Developer**, looking for a position on the development team.
   
-After having worked on the sales side of digital products for a number of years within tech companies; I realised it is programming and solving problems that I enjoy more.  Equipped with best engineering practices gained through Makers developer bootcamp, I am really excited to use my digital technical skills to help turn ideas into innovative new features, products & services.  
+After having worked on the sales side of digital products for a number of years within tech companies; I realised it is programming and solving problems that I enjoy more.  Equipped with best engineering practices gained through Makers Developer Bootcamp, I am really excited to use my digital technical skills to help turn ideas into innovative new features, products & services.  
 
-I would describe myself as someone who is open minded, a good learner (self-taught Japanese and lived in Japan for 2 years), with a positive attitude and strong methodical approach which I can bring when working with people from walks of life. 
+I would describe myself as someone who is open minded, a good learner (self-taught Japanese and lived in Japan for 2 years), with a positive attitude and strong methodical approach which I can bring when working with people from all walks of life. 
 
 ## Technologies
 **Languages:** JavaScript, Ruby, HTML, CSS
@@ -51,7 +51,7 @@ _Web Development Coding Bootcamp_
 
 - Technologies include: React, JavaScript, HTML, CSS, Node.JS, Bootstrap, Tailwind, NPM packages 
 - Agile Development Methodology
-- Pair programming and final 'team project build'
+- Pair programming and final 'Team Project Build'
 
 **POWREADY** (Oct 2020 - Present)  
 _Sales Manager_
@@ -101,8 +101,6 @@ _Web Development Bootcamp_
 
 **SOAS University of London & King's College London** (2009 - 2014) 
 _BA Arabic & Geography (Joint Honours)_
-
-- Final Project: Geography City Planning Essay Written in Arabic 
 
 ## Interests
 
