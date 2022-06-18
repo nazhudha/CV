@@ -4,24 +4,25 @@
 
 ## Introduction
 
-I am an adaptable and reliable **Frontend React Developer**, with lots of previous experience working with company tools and technologies; now looking for a position on the development team.
+I am an adaptable and reliable **Full Stack Developer**, now looking for a position on the development team.œ
+  
+After having worked on the sales side of digital products for a number of years within tech companies; I realised it is programming and solving problems that I enjoy more.  Equipped with best engineering practices gained through Makers developer bootcamp, I am really excited to use my digital technical skills to help turn ideas into innovative new features, products & services.  
 
-After having worked on the sales side of digital products for a number of years within Tech companies; I realised it is programming and solving problems that I enjoy more.  So I am excited, to use my digital technical skills to to help turn ideas into innovative new features, products & services.  
-
-I would describe myself as someone who is open minded, a good learner (self-taught Japanese then lived in Japan for 2 years), and can easily get along well with different types of people.
+I would describe myself as someone who is open minded, a good learner (self-taught Japanese and lived in Japan for 2 years), with a positive attitude and strong methodical approach which I can bring when working with people from walks of life. 
 
 ## Technologies
-**Languages:** HTML, CSS, JavaScript
+**Languages:** JavaScript, Ruby, HTML, CSS
 
-**Libraries & Frameworks:** React, Bootstrap, Tailwind, SASS
+**Libraries, Frameworks & Databases :** React, PostgreSQL, SQL, MongoDB, Bootstrap, Tailwind, SASS, Sinatra, Rails 
 
-**Tools & Methodologies:** Git, NPM, web API's (incl. JSON & AJAX), Agile Development
+**Other Tools & Methodologies:** Express, Node, NPM, Jest, Rspec, Capybara, web API's (incl. JSON & AJAX), Agile Development, TDD
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        | Source Code |
 | ---------------------------- | ----------------- | ----------------- | :---------: |
 | **Portfolio-Web-Build**         |  A responsive, Personal Portfolio Site Build   |  HTML, CSS, Javascript   |  [Portfolio Site](https://github.com/nazhudha/Portfolio-Web-Build)  |
+| **MakersBNB** | Team Build, Property Rental Booking app   | Ruby, HTML, CSS, PostgreSQL, Sinatra, Rspec | [MakersBNB](https://github.com/nazhudha/MakersBNB) |
 | **Miracle Shoe** | Team Build, Frontend Shoe E-Commerce site   | React, NPM packages | [Miracle Shoe](https://github.com/nazhudha/miracle-shoes-ecommerce) |
 | **NES-CSS-Dialogue**          | Using NESS CSS framework   |  NESS CSS, NPM packages   |  [Ness Css ](https://github.com/nazhudha/css---NES-CSS-Dialogue)  |
 | **React App1**    |  React App one  |  TBC  |  [React App1](https://github.com/nazhudha?tab=repositories)  |
@@ -36,6 +37,21 @@ I would describe myself as someone who is open minded, a good learner (self-taug
 - Number Guessing-Game JS App | [number-guesser ](https://github.com/nazhudha/Js---Guessing-Game-Simple) 
 
 ## Experience
+
+**Makers Academy** (April 2022 - Aug 2022)
+_16 week Software Engineering Bootcamp_
+
+- Technologies include: React, JavaScript, Node, MongoDB, Express, PostgreSQL, Ruby, Rails, HTML, CSS, Bootstrap, Semantic UI, Jest, React Testing Library, MSW, Cypress etc.
+- Building full stack, RESTful, applications with an emphasis on high code quality
+- Daily pair-programming, effective debugging process, prioritising TDD (Rspec, Jest) and x3 group engineering projects
+- modular code design, utilising OOP, MVC and Agile for efficient development processes
+
+**Bath Spa University** (Jan 2022 - April 2022)  
+_Web Development Coding Bootcamp_
+
+- Technologies include: React, JavaScript, HTML, CSS, Node.JS, Bootstrap, Tailwind, NPM packages 
+- Agile Development Methodology
+- Pair programming and final 'team project build'
 
 **POWREADY** (Oct 2020 - Present)  
 _Sales Manager_
@@ -76,6 +92,12 @@ _English Language Teacher_
 
 
 ## Education
+
+**Makers Academy** (April 2022 - Aug 2022)
+_16 week Software Engineering Bootcamp_
+
+**Bath Spa University** (Jan 2022 - April 2022)
+_Web Development Bootcamp_
 
 **SOAS University of London & King's College London** (2009 - 2014) 
 _BA Arabic & Geography (Joint Honours)_
