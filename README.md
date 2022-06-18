@@ -4,16 +4,16 @@
 
 ## Introduction
 
-I am an adaptable and reliable **Full Stack Developer**, looking for a position on the development team.
+I am an adaptable and reliable **Junior Full Stack Developer**, looking for a new role in the development team
   
-After having worked on the sales side of digital products for a number of years within tech companies; I realised it is programming and solving problems that I enjoy more.  Equipped with best engineering practices gained through Makers Developer Bootcamp, I am really excited to use my digital technical skills to help turn ideas into innovative new features, products & services.  
+After having worked on the sales side of digital products for more than 6+ years (within tech companies); I realised it is programming and solving problems that I enjoy more.  Now equipped with best engineering practices gained through Makers Developer Bootcamp, I am really excited to use my digital technical skills to help turn ideas into innovative new features, products & services.  
 
-I would describe myself as someone who is open minded, a good learner (self-taught Japanese and lived in Japan for 2 years), with a positive attitude and strong methodical approach which I can bring when working with people from all walks of life. 
+I would describe myself as someone who is open minded, a good learner (self-taught Japanese and lived in Japan for 2 years), with a positive attitude and strong methodical approach which I'll bring when working with people from all walks of life. 
 
 ## Technologies
 **Languages:** JavaScript, Ruby, HTML, CSS
 
-**Libraries, Frameworks & Databases :** React, PostgreSQL, SQL, MongoDB, Bootstrap, Tailwind, SASS, Sinatra, Rails 
+**Libraries, Frameworks & Databases :** React, PostgreSQL, MongoDB, Bootstrap, Tailwind, SASS, Sinatra, Rails 
 
 **Other Tools & Methodologies:** Express, Node, NPM, Jest, Rspec, Capybara, web API's (incl. JSON & AJAX), Agile Development, TDD
 
@@ -94,7 +94,7 @@ _English Language Teacher_
 ## Education
 
 **Makers Academy** (April 2022 - Aug 2022)
-_16 week Software Engineering Bootcamp_
+_16 Week Software Engineering Bootcamp_
 
 **Bath Spa University** (Jan 2022 - April 2022)
 _Web Development Bootcamp_
