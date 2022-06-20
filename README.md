@@ -40,7 +40,7 @@ I would describe myself as someone who is open minded, a good learner (self-taug
 **Makers Academy** (April 2022 - Aug 2022)
 _16 week Software Engineering Bootcamp_
 
-- Technologies include: React, JavaScript, Node, MongoDB, Express, PostgreSQL, Ruby, Rails, HTML, CSS, Bootstrap, Semantic UI, Jest, React Testing Library, MSW, Cypress etc.
+- Technologies include: React, JavaScript, Node, MongoDB, Express, PostgreSQL, Ruby, Rails, Sinatra, Capybara, HTML, CSS, Bootstrap, Semantic UI, Jest, React Testing Library, MSW, Cypress etc.
 - Building full stack, RESTful, applications with an emphasis on high code quality
 - Daily pair-programming, effective debugging process, prioritising TDD (Rspec, Jest) and x3 group engineering projects
 - modular code design, utilising OOP, MVC and Agile for efficient development processes
