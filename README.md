@@ -22,6 +22,7 @@ I would describe myself as someone who is open minded, a good learner (self-taug
 
 | Name                    | Description                                                         | Tech/tools                                            |                            Source Code                            |
 | ----------------------- | ------------------------------------------------------------------- | ----------------------------------------------------- | :---------------------------------------------------------------: |
+| **Pair-UP**           | Team Build, (full stack) Pair Programming App with: Maps API, video call, Github Api, user Profiles, creating projects | React, React-router-dom, Material UI, Javascript, MongoDB, Mongoose, Passport JWT, Jest, Cypress |        [Pair-Up](https://github.com/nazhudha/Pair-Up)         |
 | **Acebook**           | Team Build, (full stack) Facebook clone with: Comments, likes and photo upload functionality with user profiles | Javascript, Express, Handlebars, MongoDB, ESLint, Jest, Cypress, Bootstrap  |        [Acebook](https://github.com/nazhudha/acebook-eta)         |
 | **MakersBNB**           | Team Build, (full stack) Property Rental Booking App - Airbnb clone | Ruby, RSpec, Capybara, Sinatra, PostgreSQL, HTML, CSS |        [MakersBNB](https://github.com/nazhudha/MakersBNB)         |
 | **Portfolio-Web-Build** | A Responsive, Personal Portfolio Site Build                         | HTML, CSS, Javascript                                 | [Portfolio Site](https://github.com/nazhudha/Portfolio-Web-Build) |
